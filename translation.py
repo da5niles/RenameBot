@@ -15,7 +15,7 @@ class Translation(object):
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ThankTelegram'>@SpEcHlDe</a>"
     SAVED_CUSTOM_THUMB_NAIL = "Иконка сохранена и будет использоваться в файле!"
-    DEL_ETED_CUSTOM_THUMB_NAIL = "Иконка удалена!."
+    DEL_ETED_CUSTOM_THUMB_NAIL = "Иконка удалена!"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Медиа очищено."
     SAVED_RECVD_DOC_FILE = "Документ загружен успешно."
     CUSTOM_CAPTION_UL_FILE = " "
@@ -30,7 +30,7 @@ class Translation(object):
     Для сохранения иконки отправьте её как фото.
    
 """
-    REPLY_TO_DOC_FOR_RENAME_FILE = "Ответь на файл реплаем /r Новое Имя.apk"
+    REPLY_TO_DOC_FOR_RENAME_FILE = "Где нужный файл?\nОтветь на файл реплаем /r Новое Имя.apk"
     ABUSIVE_USERS = "Вам не разрешено использовать этого бота. Если вы считаете, что это ошибка, отметьте /me, чтобы снять это ограничение."
     FREE_USER_LIMIT_Q_SZE = """Невозможно обработать.
 Бесплатные пользователи только 1 запрос за 30 минут.
